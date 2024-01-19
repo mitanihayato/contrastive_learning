@@ -42,3 +42,7 @@ https://github.com/sthalles/SimCLR
 pytorch実装   
 同じclassも考慮してしている  
 https://github.com/HobbitLong/SupContrast?tab=readme-ov-file
+
+## t-SNE可視化
+contrastiveになっているかの確認などに使える？  
+https://qiita.com/tomp/items/19e00c835975eaf20f94
